@@ -1,0 +1,1090 @@
+[Tue Nov 07 14:17:46.948131 2023] [ssl:warn] [pid 17264:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:17:46.950129 2023] [ssl:warn] [pid 17264:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:17:47.121129 2023] [ssl:warn] [pid 17264:tid 672] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 14:17:47.122130 2023] [ssl:warn] [pid 17264:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:17:47.122130 2023] [ssl:warn] [pid 17264:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:17:47.181405 2023] [mpm_winnt:notice] [pid 17264:tid 672] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/5.6.18 configured -- resuming normal operations
+[Tue Nov 07 14:17:47.181405 2023] [mpm_winnt:notice] [pid 17264:tid 672] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Nov 07 14:17:47.181405 2023] [core:notice] [pid 17264:tid 672] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Nov 07 14:17:47.190400 2023] [mpm_winnt:notice] [pid 17264:tid 672] AH00418: Parent: Created child process 7304
+[Tue Nov 07 14:17:48.193607 2023] [ssl:warn] [pid 7304:tid 676] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:17:48.194606 2023] [ssl:warn] [pid 7304:tid 676] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:17:48.387605 2023] [ssl:warn] [pid 7304:tid 676] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 14:17:48.387605 2023] [ssl:warn] [pid 7304:tid 676] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:17:48.387605 2023] [ssl:warn] [pid 7304:tid 676] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:17:48.429603 2023] [mpm_winnt:notice] [pid 7304:tid 676] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 07 14:31:51.221248 2023] [mpm_winnt:crit] [pid 7304:tid 676] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Nov 07 14:31:57.642425 2023] [ssl:warn] [pid 2736:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:31:57.642425 2023] [ssl:warn] [pid 2736:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:31:57.677253 2023] [core:warn] [pid 2736:tid 656] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 07 14:31:57.755792 2023] [ssl:warn] [pid 2736:tid 656] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 14:31:57.755792 2023] [ssl:warn] [pid 2736:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:31:57.755792 2023] [ssl:warn] [pid 2736:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:31:58.489030 2023] [mpm_winnt:notice] [pid 2736:tid 656] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/5.6.18 configured -- resuming normal operations
+[Tue Nov 07 14:31:58.489030 2023] [mpm_winnt:notice] [pid 2736:tid 656] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Nov 07 14:31:58.489030 2023] [core:notice] [pid 2736:tid 656] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Nov 07 14:31:58.496968 2023] [mpm_winnt:notice] [pid 2736:tid 656] AH00418: Parent: Created child process 12844
+[Tue Nov 07 14:31:59.297827 2023] [ssl:warn] [pid 12844:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:31:59.298828 2023] [ssl:warn] [pid 12844:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:31:59.406186 2023] [ssl:warn] [pid 12844:tid 672] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 14:31:59.407188 2023] [ssl:warn] [pid 12844:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 07 14:31:59.407188 2023] [ssl:warn] [pid 12844:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 07 14:31:59.443140 2023] [mpm_winnt:notice] [pid 12844:tid 672] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 07 14:35:06.786284 2023] [:error] [pid 12844:tid 1412] [client ::1:2137] PHP Parse error:  syntax error, unexpected '<' in C:\\UwAmp\\www\\tp1\\index.php on line 16
+[Tue Nov 07 15:07:36.196085 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Use of undefined constant i - assumed 'i' in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.196085 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.196085 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Undefined index: i in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Use of undefined constant i - assumed 'i' in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Undefined index: i in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Use of undefined constant i - assumed 'i' in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Undefined index: i in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Use of undefined constant i - assumed 'i' in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.197088 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Undefined index: i in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Use of undefined constant i - assumed 'i' in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Undefined index: i in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Use of undefined constant i - assumed 'i' in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Undefined index: i in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Use of undefined constant i - assumed 'i' in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Notice:  Undefined index: i in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP Stack trace:
+[Tue Nov 07 15:07:36.198094 2023] [:error] [pid 12844:tid 1408] [client ::1:2403] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:07:50.314006 2023] [:error] [pid 12844:tid 1408] [client ::1:2404] PHP Notice:  Undefined offset: 7 in C:\\UwAmp\\www\\tp1\\index.php on line 22
+[Tue Nov 07 15:07:50.314006 2023] [:error] [pid 12844:tid 1408] [client ::1:2404] PHP Stack trace:
+[Tue Nov 07 15:07:50.314006 2023] [:error] [pid 12844:tid 1408] [client ::1:2404] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:37:21.733783 2023] [:error] [pid 12844:tid 1412] [client ::1:10581] PHP Parse error:  syntax error, unexpected ')' in C:\\UwAmp\\www\\tp1\\index.php on line 33
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Notice:  Use of undefined constant s - assumed 's' in C:\\UwAmp\\www\\tp1\\index.php on line 34
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP Stack trace:
+[Tue Nov 07 15:42:26.372698 2023] [:error] [pid 12844:tid 1408] [client ::1:10604] PHP   1. {main}() C:\\UwAmp\\www\\tp1\\index.php:0
+[Tue Nov 07 15:47:55.306240 2023] [:error] [pid 12844:tid 1408] [client ::1:10621] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in C:\\UwAmp\\www\\tp1\\index.php on line 41
+[Tue Nov 07 15:56:29.317453 2023] [:error] [pid 12844:tid 1412] [client ::1:10927] PHP Parse error:  syntax error, unexpected '{' in C:\\UwAmp\\www\\tp1\\index.php on line 46
+[Tue Nov 07 15:56:44.856876 2023] [:error] [pid 12844:tid 1412] [client ::1:10928] PHP Parse error:  syntax error, unexpected '{' in C:\\UwAmp\\www\\tp1\\index.php on line 46
+[Tue Nov 07 15:56:46.299170 2023] [:error] [pid 12844:tid 1412] [client ::1:10928] PHP Parse error:  syntax error, unexpected '{' in C:\\UwAmp\\www\\tp1\\index.php on line 46
+[Tue Nov 14 13:58:20.576078 2023] [ssl:warn] [pid 4244:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:20.584071 2023] [ssl:warn] [pid 4244:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:20.792541 2023] [core:warn] [pid 4244:tid 672] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 14 13:58:21.392457 2023] [ssl:warn] [pid 4244:tid 672] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 14 13:58:21.392457 2023] [ssl:warn] [pid 4244:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:21.392457 2023] [ssl:warn] [pid 4244:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:25.938518 2023] [mpm_winnt:notice] [pid 4244:tid 672] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/5.6.18 configured -- resuming normal operations
+[Tue Nov 14 13:58:25.938518 2023] [mpm_winnt:notice] [pid 4244:tid 672] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Nov 14 13:58:25.938518 2023] [core:notice] [pid 4244:tid 672] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Nov 14 13:58:25.962892 2023] [mpm_winnt:notice] [pid 4244:tid 672] AH00418: Parent: Created child process 17376
+[Tue Nov 14 13:58:30.503133 2023] [ssl:warn] [pid 17376:tid 632] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:30.503133 2023] [ssl:warn] [pid 17376:tid 632] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:31.103903 2023] [ssl:warn] [pid 17376:tid 632] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 14 13:58:31.103903 2023] [ssl:warn] [pid 17376:tid 632] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:31.103903 2023] [ssl:warn] [pid 17376:tid 632] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:31.264327 2023] [mpm_winnt:notice] [pid 17376:tid 632] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 14 13:58:38.536676 2023] [mpm_winnt:crit] [pid 17376:tid 632] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Nov 14 13:58:47.831449 2023] [ssl:warn] [pid 17160:tid 624] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:47.839352 2023] [ssl:warn] [pid 17160:tid 624] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:48.009948 2023] [core:warn] [pid 17160:tid 624] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 14 13:58:48.458336 2023] [ssl:warn] [pid 17160:tid 624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 14 13:58:48.458336 2023] [ssl:warn] [pid 17160:tid 624] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:48.458336 2023] [ssl:warn] [pid 17160:tid 624] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:51.573149 2023] [mpm_winnt:notice] [pid 17160:tid 624] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Tue Nov 14 13:58:51.573149 2023] [mpm_winnt:notice] [pid 17160:tid 624] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Nov 14 13:58:51.573149 2023] [core:notice] [pid 17160:tid 624] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Nov 14 13:58:51.589055 2023] [mpm_winnt:notice] [pid 17160:tid 624] AH00418: Parent: Created child process 19948
+[Tue Nov 14 13:58:56.250484 2023] [ssl:warn] [pid 19948:tid 460] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:56.258493 2023] [ssl:warn] [pid 19948:tid 460] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:56.843058 2023] [ssl:warn] [pid 19948:tid 460] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 14 13:58:56.843058 2023] [ssl:warn] [pid 19948:tid 460] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:58:56.843058 2023] [ssl:warn] [pid 19948:tid 460] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:58:57.002969 2023] [mpm_winnt:notice] [pid 19948:tid 460] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 14 13:59:13.004700 2023] [mpm_winnt:crit] [pid 19948:tid 460] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Nov 14 13:59:25.234883 2023] [ssl:warn] [pid 15616:tid 616] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:59:25.242900 2023] [ssl:warn] [pid 15616:tid 616] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:59:25.411517 2023] [core:warn] [pid 15616:tid 616] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 14 13:59:25.868172 2023] [ssl:warn] [pid 15616:tid 616] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 14 13:59:25.868172 2023] [ssl:warn] [pid 15616:tid 616] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:59:25.868172 2023] [ssl:warn] [pid 15616:tid 616] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:59:26.036050 2023] [mpm_winnt:notice] [pid 15616:tid 616] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Tue Nov 14 13:59:26.036050 2023] [mpm_winnt:notice] [pid 15616:tid 616] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Nov 14 13:59:26.036050 2023] [core:notice] [pid 15616:tid 616] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Nov 14 13:59:26.060132 2023] [mpm_winnt:notice] [pid 15616:tid 616] AH00418: Parent: Created child process 14360
+[Tue Nov 14 13:59:30.674226 2023] [ssl:warn] [pid 14360:tid 480] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:59:30.682234 2023] [ssl:warn] [pid 14360:tid 480] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:59:31.299477 2023] [ssl:warn] [pid 14360:tid 480] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 14 13:59:31.299477 2023] [ssl:warn] [pid 14360:tid 480] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 14 13:59:31.299477 2023] [ssl:warn] [pid 14360:tid 480] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 14 13:59:31.459519 2023] [mpm_winnt:notice] [pid 14360:tid 480] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 14 15:44:53.015383 2023] [:error] [pid 14360:tid 1420] [client ::1:11443] PHP Notice:  Undefined index: number in C:\\UwAmp\\www\\14112023\\factorialpost.php on line 2, referer: http://localhost/14112023/factorialform.php
+[Tue Nov 14 15:44:53.015383 2023] [:error] [pid 14360:tid 1420] [client ::1:11443] PHP Stack trace:, referer: http://localhost/14112023/factorialform.php
+[Tue Nov 14 15:44:53.015383 2023] [:error] [pid 14360:tid 1420] [client ::1:11443] PHP   1. {main}() C:\\UwAmp\\www\\14112023\\factorialpost.php:0, referer: http://localhost/14112023/factorialform.php
+[Tue Nov 14 15:57:18.046564 2023] [:error] [pid 14360:tid 1420] [client ::1:11636] script 'C:/UwAmp/www/14112023/factorialget.php' not found or unable to stat, referer: http://localhost/14112023/factorialform.php
+[Tue Nov 21 14:07:20.959912 2023] [ssl:warn] [pid 27328:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:07:20.975902 2023] [ssl:warn] [pid 27328:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:07:21.223892 2023] [core:warn] [pid 27328:tid 680] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 21 14:07:21.904504 2023] [ssl:warn] [pid 27328:tid 680] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 21 14:07:21.912519 2023] [ssl:warn] [pid 27328:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:07:21.912519 2023] [ssl:warn] [pid 27328:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:07:26.896791 2023] [mpm_winnt:notice] [pid 27328:tid 680] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Tue Nov 21 14:07:26.896791 2023] [mpm_winnt:notice] [pid 27328:tid 680] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Nov 21 14:07:26.896791 2023] [core:notice] [pid 27328:tid 680] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Nov 21 14:07:26.936796 2023] [mpm_winnt:notice] [pid 27328:tid 680] AH00418: Parent: Created child process 21484
+[Tue Nov 21 14:07:32.757234 2023] [ssl:warn] [pid 21484:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:07:32.757234 2023] [ssl:warn] [pid 21484:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:07:33.413068 2023] [ssl:warn] [pid 21484:tid 656] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 21 14:07:33.421066 2023] [ssl:warn] [pid 21484:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:07:33.421066 2023] [ssl:warn] [pid 21484:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:07:33.580377 2023] [mpm_winnt:notice] [pid 21484:tid 656] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 21 14:29:53.729462 2023] [mpm_winnt:crit] [pid 21484:tid 656] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Nov 21 14:30:21.200663 2023] [ssl:warn] [pid 19688:tid 616] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:30:21.232666 2023] [ssl:warn] [pid 19688:tid 616] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:30:21.560782 2023] [core:warn] [pid 19688:tid 616] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 21 14:30:22.725997 2023] [ssl:warn] [pid 19688:tid 616] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 21 14:30:22.725997 2023] [ssl:warn] [pid 19688:tid 616] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:30:22.725997 2023] [ssl:warn] [pid 19688:tid 616] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:30:23.063275 2023] [mpm_winnt:notice] [pid 19688:tid 616] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Tue Nov 21 14:30:23.063275 2023] [mpm_winnt:notice] [pid 19688:tid 616] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Nov 21 14:30:23.071274 2023] [core:notice] [pid 19688:tid 616] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Nov 21 14:30:23.167275 2023] [mpm_winnt:notice] [pid 19688:tid 616] AH00418: Parent: Created child process 3548
+[Tue Nov 21 14:30:32.450361 2023] [ssl:warn] [pid 3548:tid 828] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:30:32.458374 2023] [ssl:warn] [pid 3548:tid 828] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:30:33.541427 2023] [ssl:warn] [pid 3548:tid 828] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 21 14:30:33.549431 2023] [ssl:warn] [pid 3548:tid 828] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 21 14:30:33.549431 2023] [ssl:warn] [pid 3548:tid 828] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 21 14:30:33.725703 2023] [mpm_winnt:notice] [pid 3548:tid 828] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Notice:  Undefined index: name in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 5, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Notice:  Undefined index: email in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Notice:  Undefined index: password in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 7, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.000260 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.003301 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Notice:  Undefined index: photo in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 8, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.003301 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.003301 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.003301 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Notice:  Undefined index: photo in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 9, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.003301 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.003301 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.019370 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UwAmp\\www\\wcphp\\handle_registration.php:9) in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 27, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.019370 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.019370 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:52:21.019370 2023] [:error] [pid 3548:tid 1468] [client ::1:1797] PHP   2. header() C:\\UwAmp\\www\\wcphp\\handle_registration.php:27, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.314644 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Notice:  Undefined index: name in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 5, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Notice:  Undefined index: email in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Notice:  Undefined index: password in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 7, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Notice:  Undefined index: photo in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 8, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Notice:  Undefined index: photo in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 9, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.322647 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.363126 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UwAmp\\www\\wcphp\\handle_registration.php:9) in C:\\UwAmp\\www\\wcphp\\handle_registration.php on line 27, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.363126 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.363126 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_registration.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 15:53:52.363126 2023] [:error] [pid 3548:tid 1468] [client ::1:1804] PHP   2. header() C:\\UwAmp\\www\\wcphp\\handle_registration.php:27, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Warning:  include(header.inc.php): failed to open stream: No such file or directory in C:\\UwAmp\\www\\wcphp\\page.php on line 4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Warning:  include(): Failed opening 'header.inc.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\UwAmp\\www\\wcphp\\page.php on line 4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Warning:  include(menu.inc.php): failed to open stream: No such file or directory in C:\\UwAmp\\www\\wcphp\\page.php on line 5, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Warning:  include(): Failed opening 'menu.inc.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\UwAmp\\www\\wcphp\\page.php on line 5, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Warning:  include(footer.inc.php): failed to open stream: No such file or directory in C:\\UwAmp\\www\\wcphp\\page.php on line 12, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Warning:  include(): Failed opening 'footer.inc.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\UwAmp\\www\\wcphp\\page.php on line 12, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:07:09.546001 2023] [:error] [pid 3548:tid 1440] [client ::1:2396] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.485826 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.485826 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.485826 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.485826 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.486835 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP Warning:  include(footer.inc.php): failed to open stream: No such file or directory in C:\\UwAmp\\www\\wcphp\\page.php on line 12, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.486835 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.486835 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.486835 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP Warning:  include(): Failed opening 'footer.inc.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\UwAmp\\www\\wcphp\\page.php on line 12, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.486835 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:08:25.486835 2023] [:error] [pid 3548:tid 1440] [client ::1:2423] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:07.090643 2023] [:error] [pid 3548:tid 1468] [client ::1:2462] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:07.090643 2023] [:error] [pid 3548:tid 1468] [client ::1:2462] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:07.090643 2023] [:error] [pid 3548:tid 1468] [client ::1:2462] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:07.090643 2023] [:error] [pid 3548:tid 1468] [client ::1:2462] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:59.193928 2023] [:error] [pid 3548:tid 1440] [client ::1:2504] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:59.193928 2023] [:error] [pid 3548:tid 1440] [client ::1:2504] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:59.193928 2023] [:error] [pid 3548:tid 1440] [client ::1:2504] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:09:59.193928 2023] [:error] [pid 3548:tid 1440] [client ::1:2504] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:37.952581 2023] [:error] [pid 3548:tid 1440] [client ::1:2518] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:37.953581 2023] [:error] [pid 3548:tid 1440] [client ::1:2518] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:37.953581 2023] [:error] [pid 3548:tid 1440] [client ::1:2518] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:37.953581 2023] [:error] [pid 3548:tid 1440] [client ::1:2518] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:50.622801 2023] [:error] [pid 3548:tid 1468] [client ::1:2529] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:50.622801 2023] [:error] [pid 3548:tid 1468] [client ::1:2529] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:50.622801 2023] [:error] [pid 3548:tid 1468] [client ::1:2529] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:10:50.622801 2023] [:error] [pid 3548:tid 1468] [client ::1:2529] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:09.337628 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:09.337628 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:09.337628 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:09.337628 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:10.692433 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:10.692433 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:10.692433 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:10.692433 2023] [:error] [pid 3548:tid 1468] [client ::1:2544] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:20.925684 2023] [:error] [pid 3548:tid 1440] [client ::1:2547] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:20.925684 2023] [:error] [pid 3548:tid 1440] [client ::1:2547] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:20.925684 2023] [:error] [pid 3548:tid 1440] [client ::1:2547] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:20.925684 2023] [:error] [pid 3548:tid 1440] [client ::1:2547] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:20.925684 2023] [:error] [pid 3548:tid 1440] [client ::1:2547] PHP Warning:  Illegal string offset 'name' in C:\\UwAmp\\www\\wcphp\\page.php on line 8, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:20.925684 2023] [:error] [pid 3548:tid 1440] [client ::1:2547] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:20.925684 2023] [:error] [pid 3548:tid 1440] [client ::1:2547] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:35.963604 2023] [:error] [pid 3548:tid 1440] [client ::1:2557] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:35.963604 2023] [:error] [pid 3548:tid 1440] [client ::1:2557] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:35.963604 2023] [:error] [pid 3548:tid 1440] [client ::1:2557] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:12:35.963604 2023] [:error] [pid 3548:tid 1440] [client ::1:2557] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:19:23.216606 2023] [:error] [pid 3548:tid 1440] [client ::1:2721] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:19:23.216606 2023] [:error] [pid 3548:tid 1440] [client ::1:2721] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:19:23.216606 2023] [:error] [pid 3548:tid 1440] [client ::1:2721] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:19:23.216606 2023] [:error] [pid 3548:tid 1440] [client ::1:2721] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:00.981262 2023] [:error] [pid 3548:tid 1468] [client ::1:2732] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:00.981262 2023] [:error] [pid 3548:tid 1468] [client ::1:2732] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:00.981262 2023] [:error] [pid 3548:tid 1468] [client ::1:2732] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:00.981262 2023] [:error] [pid 3548:tid 1468] [client ::1:2732] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:10.519132 2023] [:error] [pid 3548:tid 1440] [client ::1:2738] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:10.519132 2023] [:error] [pid 3548:tid 1440] [client ::1:2738] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:10.519132 2023] [:error] [pid 3548:tid 1440] [client ::1:2738] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:10.519132 2023] [:error] [pid 3548:tid 1440] [client ::1:2738] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:18.039127 2023] [:error] [pid 3548:tid 1440] [client ::1:2739] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:18.039127 2023] [:error] [pid 3548:tid 1440] [client ::1:2739] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:18.039127 2023] [:error] [pid 3548:tid 1440] [client ::1:2739] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:20:18.039127 2023] [:error] [pid 3548:tid 1440] [client ::1:2739] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:25:06.444372 2023] [:error] [pid 3548:tid 1468] [client ::1:3155] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:25:06.444372 2023] [:error] [pid 3548:tid 1468] [client ::1:3155] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:25:06.444372 2023] [:error] [pid 3548:tid 1468] [client ::1:3155] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:25:06.444372 2023] [:error] [pid 3548:tid 1468] [client ::1:3155] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:08.896469 2023] [:error] [pid 3548:tid 1468] [client ::1:3215] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:08.896469 2023] [:error] [pid 3548:tid 1468] [client ::1:3215] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:08.896469 2023] [:error] [pid 3548:tid 1468] [client ::1:3215] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:08.896469 2023] [:error] [pid 3548:tid 1468] [client ::1:3215] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:08.897472 2023] [:error] [pid 3548:tid 1468] [client ::1:3215] PHP Notice:  Array to string conversion in C:\\UwAmp\\www\\wcphp\\page.php on line 8, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:08.897472 2023] [:error] [pid 3548:tid 1468] [client ::1:3215] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:08.897472 2023] [:error] [pid 3548:tid 1468] [client ::1:3215] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:36.363527 2023] [:error] [pid 3548:tid 1440] [client ::1:3229] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:36.363527 2023] [:error] [pid 3548:tid 1440] [client ::1:3229] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:36.363527 2023] [:error] [pid 3548:tid 1440] [client ::1:3229] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:26:36.363527 2023] [:error] [pid 3548:tid 1440] [client ::1:3229] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:30:38.404196 2023] [:error] [pid 3548:tid 1468] [client ::1:3414] PHP Warning:  sizeof() expects at least 1 parameter, 0 given in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:30:38.404196 2023] [:error] [pid 3548:tid 1468] [client ::1:3414] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:30:38.404196 2023] [:error] [pid 3548:tid 1468] [client ::1:3414] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:30:38.404196 2023] [:error] [pid 3548:tid 1468] [client ::1:3414] PHP   2. sizeof() C:\\UwAmp\\www\\wcphp\\handle_connection.php:16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:30:38.405230 2023] [:error] [pid 3548:tid 1468] [client ::1:3414] PHP Notice:  Array to string conversion in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:30:38.405230 2023] [:error] [pid 3548:tid 1468] [client ::1:3414] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:30:38.405230 2023] [:error] [pid 3548:tid 1468] [client ::1:3414] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:31:41.236001 2023] [:error] [pid 3548:tid 1440] [client ::1:3434] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 24, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:31:41.236001 2023] [:error] [pid 3548:tid 1440] [client ::1:3434] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:31:41.236001 2023] [:error] [pid 3548:tid 1440] [client ::1:3434] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:31:41.370464 2023] [:error] [pid 3548:tid 1440] [client ::1:3434] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:31:41.370464 2023] [:error] [pid 3548:tid 1440] [client ::1:3434] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:31:41.370464 2023] [:error] [pid 3548:tid 1440] [client ::1:3434] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:31:41.370464 2023] [:error] [pid 3548:tid 1440] [client ::1:3434] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:00.678088 2023] [:error] [pid 3548:tid 1468] [client ::1:3517] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 24, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:00.678088 2023] [:error] [pid 3548:tid 1468] [client ::1:3517] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:00.678088 2023] [:error] [pid 3548:tid 1468] [client ::1:3517] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:04.541118 2023] [:error] [pid 3548:tid 1440] [client ::1:3521] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 24, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:04.541118 2023] [:error] [pid 3548:tid 1440] [client ::1:3521] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:04.541118 2023] [:error] [pid 3548:tid 1440] [client ::1:3521] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:04.547122 2023] [:error] [pid 3548:tid 1440] [client ::1:3521] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:04.547122 2023] [:error] [pid 3548:tid 1440] [client ::1:3521] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:04.547122 2023] [:error] [pid 3548:tid 1440] [client ::1:3521] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:33:04.547122 2023] [:error] [pid 3548:tid 1440] [client ::1:3521] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:34:50.733765 2023] [:error] [pid 3548:tid 1440] [client ::1:3597] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:34:50.733765 2023] [:error] [pid 3548:tid 1440] [client ::1:3597] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:34:50.733765 2023] [:error] [pid 3548:tid 1440] [client ::1:3597] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:34:50.733765 2023] [:error] [pid 3548:tid 1440] [client ::1:3597] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:35:48.995909 2023] [:error] [pid 3548:tid 1468] [client ::1:3610] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:35:48.995909 2023] [:error] [pid 3548:tid 1468] [client ::1:3610] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:35:48.996986 2023] [:error] [pid 3548:tid 1468] [client ::1:3610] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:35:48.996986 2023] [:error] [pid 3548:tid 1468] [client ::1:3610] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.235578 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP Warning:  count() expects at least 1 parameter, 0 given in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.236590 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.236590 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.236590 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP   2. count() C:\\UwAmp\\www\\wcphp\\handle_connection.php:16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.247585 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.247585 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.247585 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:19.247585 2023] [:error] [pid 3548:tid 1468] [client ::1:3704] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.564859 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP Warning:  count() expects at least 1 parameter, 0 given in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.565930 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.565930 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.565930 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP   2. count() C:\\UwAmp\\www\\wcphp\\handle_connection.php:16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.565930 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP Notice:  Array to string conversion in C:\\UwAmp\\www\\wcphp\\handle_connection.php on line 16, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.565930 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.565930 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_connection.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.571918 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.571918 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.571918 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:36:42.571918 2023] [:error] [pid 3548:tid 1440] [client ::1:3721] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:12.689352 2023] [:error] [pid 3548:tid 1440] [client ::1:3822] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:12.689352 2023] [:error] [pid 3548:tid 1440] [client ::1:3822] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:12.689352 2023] [:error] [pid 3548:tid 1440] [client ::1:3822] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:12.689352 2023] [:error] [pid 3548:tid 1440] [client ::1:3822] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:47.863300 2023] [:error] [pid 3548:tid 1440] [client ::1:3835] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:47.864308 2023] [:error] [pid 3548:tid 1440] [client ::1:3835] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:47.864308 2023] [:error] [pid 3548:tid 1440] [client ::1:3835] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:39:47.864308 2023] [:error] [pid 3548:tid 1440] [client ::1:3835] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:03.591960 2023] [:error] [pid 3548:tid 1468] [client ::1:3910] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:03.591960 2023] [:error] [pid 3548:tid 1468] [client ::1:3910] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:03.591960 2023] [:error] [pid 3548:tid 1468] [client ::1:3910] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:03.591960 2023] [:error] [pid 3548:tid 1468] [client ::1:3910] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:23.185091 2023] [:error] [pid 3548:tid 1468] [client ::1:3923] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:23.185091 2023] [:error] [pid 3548:tid 1468] [client ::1:3923] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:23.185091 2023] [:error] [pid 3548:tid 1468] [client ::1:3923] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:23.185091 2023] [:error] [pid 3548:tid 1468] [client ::1:3923] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:41.912968 2023] [:error] [pid 3548:tid 1468] [client ::1:3942] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:41.912968 2023] [:error] [pid 3548:tid 1468] [client ::1:3942] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:41.912968 2023] [:error] [pid 3548:tid 1468] [client ::1:3942] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:41.912968 2023] [:error] [pid 3548:tid 1468] [client ::1:3942] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:52.501382 2023] [:error] [pid 3548:tid 1468] [client ::1:3967] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:52.501382 2023] [:error] [pid 3548:tid 1468] [client ::1:3967] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:52.501382 2023] [:error] [pid 3548:tid 1468] [client ::1:3967] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 21 16:41:52.501382 2023] [:error] [pid 3548:tid 1468] [client ::1:3967] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Mon Nov 27 15:44:39.583465 2023] [ssl:warn] [pid 4252:tid 628] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 27 15:44:39.589014 2023] [ssl:warn] [pid 4252:tid 628] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 27 15:44:39.782576 2023] [core:warn] [pid 4252:tid 628] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 27 15:44:40.367561 2023] [ssl:warn] [pid 4252:tid 628] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Nov 27 15:44:40.375558 2023] [ssl:warn] [pid 4252:tid 628] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 27 15:44:40.375558 2023] [ssl:warn] [pid 4252:tid 628] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 27 15:44:48.644777 2023] [mpm_winnt:notice] [pid 4252:tid 628] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Nov 27 15:44:48.644777 2023] [mpm_winnt:notice] [pid 4252:tid 628] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Nov 27 15:44:48.644777 2023] [core:notice] [pid 4252:tid 628] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Nov 27 15:44:48.668779 2023] [mpm_winnt:notice] [pid 4252:tid 628] AH00418: Parent: Created child process 29332
+[Mon Nov 27 15:44:54.434334 2023] [ssl:warn] [pid 29332:tid 636] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 27 15:44:54.434334 2023] [ssl:warn] [pid 29332:tid 636] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 27 15:44:55.188473 2023] [ssl:warn] [pid 29332:tid 636] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Nov 27 15:44:55.196470 2023] [ssl:warn] [pid 29332:tid 636] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 27 15:44:55.196470 2023] [ssl:warn] [pid 29332:tid 636] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 27 15:44:55.372554 2023] [mpm_winnt:notice] [pid 29332:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 28 13:17:32.004910 2023] [:error] [pid 29332:tid 1284] [client ::1:14485] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:17:32.004910 2023] [:error] [pid 29332:tid 1284] [client ::1:14485] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:17:32.004910 2023] [:error] [pid 29332:tid 1284] [client ::1:14485] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:17:32.004910 2023] [:error] [pid 29332:tid 1284] [client ::1:14485] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:17:47.804742 2023] [:error] [pid 29332:tid 1304] [client ::1:14500] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:17:47.812759 2023] [:error] [pid 29332:tid 1304] [client ::1:14500] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:17:47.812759 2023] [:error] [pid 29332:tid 1304] [client ::1:14500] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:17:47.812759 2023] [:error] [pid 29332:tid 1304] [client ::1:14500] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:08.929162 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:08.929162 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:08.929162 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:08.929162 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:14.535779 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:14.535779 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:14.535779 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:14.535779 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:18.945772 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:18.945772 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:18.945772 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:18.945772 2023] [:error] [pid 29332:tid 1304] [client ::1:14608] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:47.435738 2023] [:error] [pid 29332:tid 1284] [client ::1:14644] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:47.435738 2023] [:error] [pid 29332:tid 1284] [client ::1:14644] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:47.435738 2023] [:error] [pid 29332:tid 1284] [client ::1:14644] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:24:47.435738 2023] [:error] [pid 29332:tid 1284] [client ::1:14644] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:25:17.134800 2023] [:error] [pid 29332:tid 1284] [client ::1:14667] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:25:17.134800 2023] [:error] [pid 29332:tid 1284] [client ::1:14667] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:25:17.142824 2023] [:error] [pid 29332:tid 1284] [client ::1:14667] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:25:17.142824 2023] [:error] [pid 29332:tid 1284] [client ::1:14667] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:28:45.981194 2023] [:error] [pid 29332:tid 1284] [client ::1:14752] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:28:45.981194 2023] [:error] [pid 29332:tid 1284] [client ::1:14752] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:28:45.981194 2023] [:error] [pid 29332:tid 1284] [client ::1:14752] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:28:45.981194 2023] [:error] [pid 29332:tid 1284] [client ::1:14752] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:08.920890 2023] [:error] [pid 29332:tid 1284] [client ::1:14800] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:08.920890 2023] [:error] [pid 29332:tid 1284] [client ::1:14800] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:08.920890 2023] [:error] [pid 29332:tid 1284] [client ::1:14800] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:08.920890 2023] [:error] [pid 29332:tid 1284] [client ::1:14800] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:27.264312 2023] [:error] [pid 29332:tid 1284] [client ::1:14810] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:27.264312 2023] [:error] [pid 29332:tid 1284] [client ::1:14810] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:27.264312 2023] [:error] [pid 29332:tid 1284] [client ::1:14810] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:30:27.264312 2023] [:error] [pid 29332:tid 1284] [client ::1:14810] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:32:54.097206 2023] [:error] [pid 29332:tid 1284] [client ::1:14878] PHP Notice:  Undefined variable: title in C:\\UwAmp\\www\\wcphp\\header.php on line 6, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:32:54.097206 2023] [:error] [pid 29332:tid 1284] [client ::1:14878] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:32:54.097206 2023] [:error] [pid 29332:tid 1284] [client ::1:14878] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\page.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 13:32:54.097206 2023] [:error] [pid 29332:tid 1284] [client ::1:14878] PHP   2. include() C:\\UwAmp\\www\\wcphp\\page.php:4, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:15:22.072257 2023] [:error] [pid 29332:tid 1304] [client ::1:1602] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\\UwAmp\\www\\wcphp\\logout.php on line 7, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:15:22.072257 2023] [:error] [pid 29332:tid 1304] [client ::1:1602] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:15:22.072257 2023] [:error] [pid 29332:tid 1304] [client ::1:1602] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\logout.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:15:22.072257 2023] [:error] [pid 29332:tid 1304] [client ::1:1602] PHP   2. session_regenerate_id() C:\\UwAmp\\www\\wcphp\\logout.php:7, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:15:33.223467 2023] [:error] [pid 29332:tid 1284] [client ::1:1611] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\\UwAmp\\www\\wcphp\\logout.php on line 7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:15:33.223467 2023] [:error] [pid 29332:tid 1284] [client ::1:1611] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:15:33.223467 2023] [:error] [pid 29332:tid 1284] [client ::1:1611] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\logout.php:0, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:15:33.223467 2023] [:error] [pid 29332:tid 1284] [client ::1:1611] PHP   2. session_regenerate_id() C:\\UwAmp\\www\\wcphp\\logout.php:7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:25:19.674895 2023] [:error] [pid 29332:tid 1304] [client ::1:1703] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\\UwAmp\\www\\wcphp\\logout.php on line 7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:25:19.674895 2023] [:error] [pid 29332:tid 1304] [client ::1:1703] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:25:19.674895 2023] [:error] [pid 29332:tid 1304] [client ::1:1703] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\logout.php:0, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:25:19.674895 2023] [:error] [pid 29332:tid 1304] [client ::1:1703] PHP   2. session_regenerate_id() C:\\UwAmp\\www\\wcphp\\logout.php:7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:25:27.744587 2023] [:error] [pid 29332:tid 1304] [client ::1:1704] PHP Notice:  A session had already been started - ignoring session_start() in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 2, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:25:27.744587 2023] [:error] [pid 29332:tid 1304] [client ::1:1704] PHP Stack trace:, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:25:27.744587 2023] [:error] [pid 29332:tid 1304] [client ::1:1704] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:25:27.744587 2023] [:error] [pid 29332:tid 1304] [client ::1:1704] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:34, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:25:27.744587 2023] [:error] [pid 29332:tid 1304] [client ::1:1704] PHP   3. session_start() C:\\UwAmp\\www\\wcphp\\caroussel.php:2, referer: http://localhost/wcphp/connection.php
+[Tue Nov 28 15:25:27.757606 2023] [core:error] [pid 29332:tid 1304] (20024)The given path is misformatted or contained invalid characters: [client ::1:1704] AH00127: Cannot map GET /wcphp/... HTTP/1.1 to file, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:25:49.603627 2023] [core:error] [pid 29332:tid 1304] (20024)The given path is misformatted or contained invalid characters: [client ::1:1706] AH00127: Cannot map GET /wcphp/... HTTP/1.1 to file, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:29:26.200608 2023] [core:error] [pid 29332:tid 1304] (20024)The given path is misformatted or contained invalid characters: [client ::1:1800] AH00127: Cannot map GET /wcphp/... HTTP/1.1 to file, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:29:26.211667 2023] [core:error] [pid 29332:tid 1304] (20024)The given path is misformatted or contained invalid characters: [client ::1:1800] AH00127: Cannot map GET /wcphp/... HTTP/1.1 to file, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 15:30:08.878993 2023] [core:error] [pid 29332:tid 1304] (20024)The given path is misformatted or contained invalid characters: [client ::1:1801] AH00127: Cannot map GET /wcphp/... HTTP/1.1 to file, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:03:10.474249 2023] [:error] [pid 29332:tid 1304] [client ::1:2062] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\\UwAmp\\www\\wcphp\\logout.php on line 7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:03:10.474249 2023] [:error] [pid 29332:tid 1304] [client ::1:2062] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:03:10.474249 2023] [:error] [pid 29332:tid 1304] [client ::1:2062] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\logout.php:0, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:03:10.474249 2023] [:error] [pid 29332:tid 1304] [client ::1:2062] PHP   2. session_regenerate_id() C:\\UwAmp\\www\\wcphp\\logout.php:7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:05:23.406872 2023] [:error] [pid 29332:tid 1304] [client ::1:2075] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\\UwAmp\\www\\wcphp\\logout.php on line 7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:05:23.406872 2023] [:error] [pid 29332:tid 1304] [client ::1:2075] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:05:23.406872 2023] [:error] [pid 29332:tid 1304] [client ::1:2075] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\logout.php:0, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:05:23.406872 2023] [:error] [pid 29332:tid 1304] [client ::1:2075] PHP   2. session_regenerate_id() C:\\UwAmp\\www\\wcphp\\logout.php:7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:06:51.383214 2023] [:error] [pid 29332:tid 1304] [client ::1:2091] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\\UwAmp\\www\\wcphp\\logout.php on line 7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:06:51.383214 2023] [:error] [pid 29332:tid 1304] [client ::1:2091] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:06:51.383214 2023] [:error] [pid 29332:tid 1304] [client ::1:2091] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\logout.php:0, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:06:51.383214 2023] [:error] [pid 29332:tid 1304] [client ::1:2091] PHP   2. session_regenerate_id() C:\\UwAmp\\www\\wcphp\\logout.php:7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:13:23.629312 2023] [:error] [pid 29332:tid 1296] [client ::1:14418] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\\UwAmp\\www\\wcphp\\logout.php on line 7, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:13:23.629312 2023] [:error] [pid 29332:tid 1296] [client ::1:14418] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:13:23.629312 2023] [:error] [pid 29332:tid 1296] [client ::1:14418] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\logout.php:0, referer: http://localhost/wcphp/index.php
+[Tue Nov 28 16:13:23.629312 2023] [:error] [pid 29332:tid 1296] [client ::1:14418] PHP   2. session_regenerate_id() C:\\UwAmp\\www\\wcphp\\logout.php:7, referer: http://localhost/wcphp/index.php
+[Mon Dec 04 10:41:26.206659 2023] [mpm_winnt:notice] [pid 4252:tid 628] AH00428: Parent: child process 29332 exited with status 1073807364 -- Restarting.
+[Mon Dec 04 10:41:48.390709 2023] [ssl:warn] [pid 4252:tid 628] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 04 10:41:49.615598 2023] [ssl:warn] [pid 4252:tid 628] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 04 10:41:49.615598 2023] [ssl:warn] [pid 4252:tid 628] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 04 10:41:52.129376 2023] [mpm_winnt:notice] [pid 4252:tid 628] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Dec 04 10:41:52.129376 2023] [mpm_winnt:notice] [pid 4252:tid 628] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Dec 04 10:41:52.129376 2023] [core:notice] [pid 4252:tid 628] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Dec 04 10:41:55.438761 2023] [mpm_winnt:notice] [pid 4252:tid 628] AH00418: Parent: Created child process 27124
+[Mon Dec 04 10:41:57.932429 2023] [mpm_winnt:crit] [pid 4252:tid 628] AH00419: master_main: create child process failed. Exiting.
+[Mon Dec 11 12:47:49.273811 2023] [ssl:warn] [pid 26816:tid 640] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 11 12:47:49.273811 2023] [ssl:warn] [pid 26816:tid 640] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 11 12:47:50.090846 2023] [ssl:warn] [pid 26816:tid 640] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 11 12:47:50.090846 2023] [ssl:warn] [pid 26816:tid 640] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 11 12:47:50.090846 2023] [ssl:warn] [pid 26816:tid 640] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 11 12:47:57.930441 2023] [mpm_winnt:notice] [pid 26816:tid 640] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Dec 11 12:47:57.930441 2023] [mpm_winnt:notice] [pid 26816:tid 640] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Dec 11 12:47:57.930441 2023] [core:notice] [pid 26816:tid 640] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Dec 11 12:47:57.946136 2023] [mpm_winnt:notice] [pid 26816:tid 640] AH00418: Parent: Created child process 27024
+[Mon Dec 11 12:48:02.860415 2023] [ssl:warn] [pid 27024:tid 468] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 11 12:48:02.860415 2023] [ssl:warn] [pid 27024:tid 468] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 11 12:48:03.487836 2023] [ssl:warn] [pid 27024:tid 468] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 11 12:48:03.487836 2023] [ssl:warn] [pid 27024:tid 468] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 11 12:48:03.487836 2023] [ssl:warn] [pid 27024:tid 468] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 11 12:48:03.661096 2023] [mpm_winnt:notice] [pid 27024:tid 468] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 12 13:40:42.116534 2023] [ssl:warn] [pid 15180:tid 492] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 12 13:40:42.124532 2023] [ssl:warn] [pid 15180:tid 492] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 13:40:42.436524 2023] [core:warn] [pid 15180:tid 492] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 12 13:40:43.397292 2023] [ssl:warn] [pid 15180:tid 492] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 12 13:40:43.405283 2023] [ssl:warn] [pid 15180:tid 492] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 12 13:40:43.405283 2023] [ssl:warn] [pid 15180:tid 492] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 13:40:56.760404 2023] [mpm_winnt:notice] [pid 15180:tid 492] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Tue Dec 12 13:40:56.760404 2023] [mpm_winnt:notice] [pid 15180:tid 492] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Dec 12 13:40:56.760404 2023] [core:notice] [pid 15180:tid 492] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Dec 12 13:40:56.808396 2023] [mpm_winnt:notice] [pid 15180:tid 492] AH00418: Parent: Created child process 10208
+[Tue Dec 12 13:41:05.805611 2023] [ssl:warn] [pid 10208:tid 592] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 12 13:41:05.805611 2023] [ssl:warn] [pid 10208:tid 592] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 13:41:06.948050 2023] [ssl:warn] [pid 10208:tid 592] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 12 13:41:06.948050 2023] [ssl:warn] [pid 10208:tid 592] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 12 13:41:06.948050 2023] [ssl:warn] [pid 10208:tid 592] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 13:41:07.243934 2023] [mpm_winnt:notice] [pid 10208:tid 592] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 12 13:42:57.365714 2023] [:error] [pid 10208:tid 1352] [client ::1:1766] script 'C:/UwAmp/www/wcphp/listitems.php' not found or unable to stat, referer: http://localhost/wcphp/index.php
+[Tue Dec 12 14:17:47.604701 2023] [core:error] [pid 10208:tid 1340] (20024)The given path is misformatted or contained invalid characters: [client ::1:2126] AH00127: Cannot map GET /wcphp/... HTTP/1.1 to file, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 12 14:45:53.363142 2023] [:error] [pid 10208:tid 1348] [client ::1:3045] script 'C:/UwAmp/www/wcphp/listitems.php' not found or unable to stat, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 12 16:13:33.558686 2023] [:error] [pid 10208:tid 1348] [client ::1:6019] script 'C:/UwAmp/www/wcphp/addproduct.php' not found or unable to stat, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 12 16:13:49.825764 2023] [:error] [pid 10208:tid 1348] [client ::1:6025] script 'C:/UwAmp/www/wcphp/addproduct.php' not found or unable to stat, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 12 16:13:50.704842 2023] [:error] [pid 10208:tid 1348] [client ::1:6025] script 'C:/UwAmp/www/wcphp/addproduct.php' not found or unable to stat, referer: http://localhost/wcphp/add_product_item.php
+[Thu Dec 14 23:23:14.667404 2023] [ssl:warn] [pid 20920:tid 496] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 14 23:23:14.669405 2023] [ssl:warn] [pid 20920:tid 496] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 14 23:23:14.763022 2023] [core:warn] [pid 20920:tid 496] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 14 23:23:14.887632 2023] [ssl:warn] [pid 20920:tid 496] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 14 23:23:14.888631 2023] [ssl:warn] [pid 20920:tid 496] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 14 23:23:14.888631 2023] [ssl:warn] [pid 20920:tid 496] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 14 23:23:15.829688 2023] [mpm_winnt:notice] [pid 20920:tid 496] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Dec 14 23:23:15.829688 2023] [mpm_winnt:notice] [pid 20920:tid 496] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Dec 14 23:23:15.829688 2023] [core:notice] [pid 20920:tid 496] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Dec 14 23:23:15.834691 2023] [mpm_winnt:notice] [pid 20920:tid 496] AH00418: Parent: Created child process 1604
+[Thu Dec 14 23:23:16.708514 2023] [ssl:warn] [pid 1604:tid 644] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 14 23:23:16.708514 2023] [ssl:warn] [pid 1604:tid 644] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 14 23:23:16.842640 2023] [ssl:warn] [pid 1604:tid 644] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 14 23:23:16.843662 2023] [ssl:warn] [pid 1604:tid 644] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 14 23:23:16.843662 2023] [ssl:warn] [pid 1604:tid 644] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 14 23:23:16.898654 2023] [mpm_winnt:notice] [pid 1604:tid 644] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Notice:  Undefined index: email in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 41, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Notice:  Undefined index: role in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Notice:  Undefined index: email in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 41, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Notice:  Undefined index: role in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:04:19.668654 2023] [:error] [pid 1604:tid 1284] [client ::1:8510] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Notice:  Undefined index: email in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 41, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Notice:  Undefined index: role in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Notice:  Undefined index: email in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 41, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Notice:  Undefined index: role in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:06.777084 2023] [:error] [pid 1604:tid 1284] [client ::1:8516] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:23.230383 2023] [:error] [pid 1604:tid 1284] [client ::1:8521] PHP Notice:  Undefined index: role in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:23.230383 2023] [:error] [pid 1604:tid 1284] [client ::1:8521] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:23.230383 2023] [:error] [pid 1604:tid 1284] [client ::1:8521] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:23.230383 2023] [:error] [pid 1604:tid 1284] [client ::1:8521] PHP Notice:  Undefined index: role in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:23.230383 2023] [:error] [pid 1604:tid 1284] [client ::1:8521] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:05:23.230383 2023] [:error] [pid 1604:tid 1284] [client ::1:8521] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:24:47.632378 2023] [:error] [pid 1604:tid 1284] [client ::1:8762] PHP Notice:  Undefined variable: counter in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 32, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:24:47.632378 2023] [:error] [pid 1604:tid 1284] [client ::1:8762] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:24:47.632378 2023] [:error] [pid 1604:tid 1284] [client ::1:8762] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:24:47.632378 2023] [:error] [pid 1604:tid 1284] [client ::1:8762] PHP Notice:  Undefined variable: counter in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 52, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:24:47.632378 2023] [:error] [pid 1604:tid 1284] [client ::1:8762] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Sun Dec 17 21:24:47.632378 2023] [:error] [pid 1604:tid 1284] [client ::1:8762] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/index.php
+[Mon Dec 18 16:04:04.458378 2023] [:error] [pid 1604:tid 1308] [client ::1:9399] script 'C:/UwAmp/www/wcphp/listitems.php' not found or unable to stat, referer: http://localhost/wcphp/allitems.php
+[Mon Dec 18 23:48:35.483712 2023] [:error] [pid 1604:tid 1312] [client ::1:6901] script 'C:/UwAmp/www/wcphp/product-details.php' not found or unable to stat, referer: http://localhost/wcphp/allitems.php
+[Mon Dec 18 23:52:08.964033 2023] [:error] [pid 1604:tid 1300] [client ::1:7032] script 'C:/UwAmp/www/wcphp/product-details.php' not found or unable to stat, referer: http://localhost/wcphp/allitems.php
+[Mon Dec 18 23:56:05.118101 2023] [:error] [pid 1604:tid 1284] [client ::1:7175] script 'C:/UwAmp/www/wcphp/product-details.php' not found or unable to stat, referer: http://localhost/wcphp/allitems.php
+[Mon Dec 18 23:58:47.644215 2023] [:error] [pid 1604:tid 1288] [client ::1:7279] script 'C:/UwAmp/www/wcphp/product_details.php' not found or unable to stat, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:33.569588 2023] [:error] [pid 1604:tid 1312] [client ::1:7520] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 23, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:33.569588 2023] [:error] [pid 1604:tid 1312] [client ::1:7520] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:33.569588 2023] [:error] [pid 1604:tid 1312] [client ::1:7520] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:33.629836 2023] [:error] [pid 1604:tid 1312] [client ::1:7520] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 24, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:33.629836 2023] [:error] [pid 1604:tid 1312] [client ::1:7520] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:33.629836 2023] [:error] [pid 1604:tid 1312] [client ::1:7520] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:49.350152 2023] [:error] [pid 1604:tid 1312] [client ::1:7521] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 22, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:49.350152 2023] [:error] [pid 1604:tid 1312] [client ::1:7521] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:49.350152 2023] [:error] [pid 1604:tid 1312] [client ::1:7521] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:49.350152 2023] [:error] [pid 1604:tid 1312] [client ::1:7521] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 23, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:49.350152 2023] [:error] [pid 1604:tid 1312] [client ::1:7521] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:12:49.350152 2023] [:error] [pid 1604:tid 1312] [client ::1:7521] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:13:26.149127 2023] [:error] [pid 1604:tid 1312] [client ::1:7524] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 22, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:13:26.149127 2023] [:error] [pid 1604:tid 1312] [client ::1:7524] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:13:26.149127 2023] [:error] [pid 1604:tid 1312] [client ::1:7524] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:16:20.130088 2023] [:error] [pid 1604:tid 1288] [client ::1:7593] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 26, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:16:20.130088 2023] [:error] [pid 1604:tid 1288] [client ::1:7593] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:16:20.130088 2023] [:error] [pid 1604:tid 1288] [client ::1:7593] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:16:20.130088 2023] [:error] [pid 1604:tid 1288] [client ::1:7593] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 27, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:16:20.130088 2023] [:error] [pid 1604:tid 1288] [client ::1:7593] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:16:20.130088 2023] [:error] [pid 1604:tid 1288] [client ::1:7593] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:17:59.824159 2023] [:error] [pid 1604:tid 1312] [client ::1:7622] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 32, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:17:59.824159 2023] [:error] [pid 1604:tid 1312] [client ::1:7622] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:17:59.824159 2023] [:error] [pid 1604:tid 1312] [client ::1:7622] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:21:04.498208 2023] [:error] [pid 1604:tid 1312] [client ::1:7676] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 36, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:21:04.498208 2023] [:error] [pid 1604:tid 1312] [client ::1:7676] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 00:21:04.498208 2023] [:error] [pid 1604:tid 1312] [client ::1:7676] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Notice:  Undefined variable: counter in C:\\UwAmp\\www\\wcphp\\product_details.php on line 65, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Notice:  Undefined variable: counter in C:\\UwAmp\\www\\wcphp\\product_details.php on line 65, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Notice:  Undefined variable: counter in C:\\UwAmp\\www\\wcphp\\product_details.php on line 65, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.250119 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.258111 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.266154 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Notice:  Undefined variable: counter in C:\\UwAmp\\www\\wcphp\\product_details.php on line 65, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.266154 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.274223 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.274223 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Notice:  Undefined variable: counter in C:\\UwAmp\\www\\wcphp\\product_details.php on line 65, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.274223 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:11:16.282287 2023] [:error] [pid 1604:tid 1312] [client ::1:8358] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:19:44.813575 2023] [:error] [pid 1604:tid 1288] [client ::1:8452] script 'C:/UwAmp/www/wcphp/listitems.php' not found or unable to stat, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Notice:  Undefined index: photo in C:\\UwAmp\\www\\wcphp\\basket.php on line 30, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Notice:  Undefined index: name in C:\\UwAmp\\www\\wcphp\\basket.php on line 33, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Notice:  Undefined index: price in C:\\UwAmp\\www\\wcphp\\basket.php on line 36, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Notice:  Undefined index: description in C:\\UwAmp\\www\\wcphp\\basket.php on line 39, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:29:55.168813 2023] [:error] [pid 1604:tid 1284] [client ::1:8586] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:39.729026 2023] [:error] [pid 1604:tid 1284] [client ::1:8625] PHP Notice:  Undefined variable: params in C:\\UwAmp\\www\\wcphp\\basket.php on line 23, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:39.729026 2023] [:error] [pid 1604:tid 1284] [client ::1:8625] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:39.825144 2023] [:error] [pid 1604:tid 1284] [client ::1:8625] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:39.866012 2023] [:error] [pid 1604:tid 1284] [client ::1:8625] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in C:\\UwAmp\\www\\wcphp\\basket.php on line 23, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:39.866012 2023] [:error] [pid 1604:tid 1284] [client ::1:8625] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:39.866012 2023] [:error] [pid 1604:tid 1284] [client ::1:8625] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:39.866012 2023] [:error] [pid 1604:tid 1284] [client ::1:8625] PHP   2. PDOStatement->execute() C:\\UwAmp\\www\\wcphp\\basket.php:23, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:58.959974 2023] [:error] [pid 1604:tid 1312] [client ::1:8632] PHP Notice:  Undefined variable: params in C:\\UwAmp\\www\\wcphp\\basket.php on line 17, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:58.959974 2023] [:error] [pid 1604:tid 1312] [client ::1:8632] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:58.959974 2023] [:error] [pid 1604:tid 1312] [client ::1:8632] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:58.959974 2023] [:error] [pid 1604:tid 1312] [client ::1:8632] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in C:\\UwAmp\\www\\wcphp\\basket.php on line 17, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:58.959974 2023] [:error] [pid 1604:tid 1312] [client ::1:8632] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:58.959974 2023] [:error] [pid 1604:tid 1312] [client ::1:8632] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:34:58.959974 2023] [:error] [pid 1604:tid 1312] [client ::1:8632] PHP   2. PDOStatement->execute() C:\\UwAmp\\www\\wcphp\\basket.php:17, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Notice:  Undefined index: photo in C:\\UwAmp\\www\\wcphp\\basket.php on line 32, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Notice:  Undefined index: name in C:\\UwAmp\\www\\wcphp\\basket.php on line 35, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Notice:  Undefined index: price in C:\\UwAmp\\www\\wcphp\\basket.php on line 38, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Notice:  Undefined index: description in C:\\UwAmp\\www\\wcphp\\basket.php on line 41, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 01:38:08.776799 2023] [:error] [pid 1604:tid 1312] [client ::1:8645] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=6
+[Tue Dec 19 09:59:30.608997 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Notice:  Undefined index: category in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.630752 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.649309 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Notice:  Undefined index: category in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Notice:  Undefined index: category in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Notice:  Undefined index: category in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Notice:  Undefined index: category in C:\\UwAmp\\www\\wcphp\\add_product_list.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 09:59:30.657318 2023] [:error] [pid 1604:tid 1320] [client ::1:10255] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_list.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 10:41:17.360967 2023] [:error] [pid 1604:tid 1308] [client ::1:11152] PHP Notice:  Undefined index: category in C:\\UwAmp\\www\\wcphp\\handle_add_product.php on line 8, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 10:41:17.360967 2023] [:error] [pid 1604:tid 1308] [client ::1:11152] PHP Stack trace:, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 10:41:17.360967 2023] [:error] [pid 1604:tid 1308] [client ::1:11152] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_add_product.php:0, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 10:43:04.500892 2023] [:error] [pid 1604:tid 1320] [client ::1:11272] PHP Notice:  Undefined index: category in C:\\UwAmp\\www\\wcphp\\handle_add_product.php on line 8, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 10:43:04.500892 2023] [:error] [pid 1604:tid 1320] [client ::1:11272] PHP Stack trace:, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 10:43:04.508817 2023] [:error] [pid 1604:tid 1320] [client ::1:11272] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\handle_add_product.php:0, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 11:25:53.464267 2023] [:error] [pid 1604:tid 1288] [client ::1:12132] script 'C:/UwAmp/www/wcphp/add_admin.php' not found or unable to stat, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 11:26:13.693640 2023] [:error] [pid 1604:tid 1288] [client ::1:12133] script 'C:/UwAmp/www/wcphp/add_admin.php' not found or unable to stat, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 11:26:19.861626 2023] [:error] [pid 1604:tid 1288] [client ::1:12133] script 'C:/UwAmp/www/wcphp/add_admin.php' not found or unable to stat, referer: http://localhost/wcphp/add_product_item.php
+[Tue Dec 19 11:38:01.729673 2023] [:error] [pid 1604:tid 1288] [client ::1:12296] PHP Notice:  Undefined index: password in C:\\UwAmp\\www\\wcphp\\edit.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:01.730676 2023] [:error] [pid 1604:tid 1288] [client ::1:12296] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:01.730676 2023] [:error] [pid 1604:tid 1288] [client ::1:12296] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\edit.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:19.385114 2023] [:error] [pid 1604:tid 1288] [client ::1:12297] PHP Notice:  Undefined index: password in C:\\UwAmp\\www\\wcphp\\edit.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:19.385114 2023] [:error] [pid 1604:tid 1288] [client ::1:12297] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:19.385114 2023] [:error] [pid 1604:tid 1288] [client ::1:12297] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\edit.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:21.003546 2023] [:error] [pid 1604:tid 1288] [client ::1:12297] PHP Notice:  Undefined index: password in C:\\UwAmp\\www\\wcphp\\edit.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:21.003546 2023] [:error] [pid 1604:tid 1288] [client ::1:12297] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:38:21.147757 2023] [:error] [pid 1604:tid 1288] [client ::1:12297] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\edit.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:41:07.518971 2023] [:error] [pid 1604:tid 1288] [client ::1:12322] PHP Notice:  Undefined index: password in C:\\UwAmp\\www\\wcphp\\edit.php on line 44, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:41:07.518971 2023] [:error] [pid 1604:tid 1288] [client ::1:12322] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:41:07.518971 2023] [:error] [pid 1604:tid 1288] [client ::1:12322] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\edit.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:46:59.115773 2023] [:error] [pid 1604:tid 1288] [client ::1:12375] PHP Notice:  Undefined variable: product in C:\\UwAmp\\www\\wcphp\\edit.php on line 45, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:46:59.115773 2023] [:error] [pid 1604:tid 1288] [client ::1:12375] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:46:59.115773 2023] [:error] [pid 1604:tid 1288] [client ::1:12375] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\edit.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:46:59.115773 2023] [:error] [pid 1604:tid 1288] [client ::1:12375] PHP Notice:  Undefined variable: product in C:\\UwAmp\\www\\wcphp\\edit.php on line 46, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:46:59.115773 2023] [:error] [pid 1604:tid 1288] [client ::1:12375] PHP Stack trace:, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 11:46:59.115773 2023] [:error] [pid 1604:tid 1288] [client ::1:12375] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\edit.php:0, referer: http://localhost/wcphp/listusers.php
+[Tue Dec 19 12:09:28.286169 2023] [:error] [pid 1604:tid 1320] [client ::1:12612] PHP Notice:  Undefined variable: row in C:\\UwAmp\\www\\wcphp\\product_details.php on line 14, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 12:09:28.286169 2023] [:error] [pid 1604:tid 1320] [client ::1:12612] PHP Stack trace:, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 12:09:28.286169 2023] [:error] [pid 1604:tid 1320] [client ::1:12612] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\product_details.php:0, referer: http://localhost/wcphp/allitems.php
+[Tue Dec 19 12:10:11.848635 2023] [:error] [pid 1604:tid 1300] [client ::1:12620] PHP Notice:  Undefined variable: name in C:\\UwAmp\\www\\wcphp\\add_basket.php on line 9, referer: http://localhost/wcphp/product_details.php?id=7
+[Tue Dec 19 12:10:11.848635 2023] [:error] [pid 1604:tid 1300] [client ::1:12620] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=7
+[Tue Dec 19 12:10:11.848635 2023] [:error] [pid 1604:tid 1300] [client ::1:12620] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_basket.php:0, referer: http://localhost/wcphp/product_details.php?id=7
+[Tue Dec 19 12:10:38.437778 2023] [:error] [pid 1604:tid 1320] [client ::1:12634] PHP Notice:  Undefined variable: name in C:\\UwAmp\\www\\wcphp\\add_basket.php on line 9, referer: http://localhost/wcphp/product_details.php?id=10
+[Tue Dec 19 12:10:38.437778 2023] [:error] [pid 1604:tid 1320] [client ::1:12634] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=10
+[Tue Dec 19 12:10:38.438842 2023] [:error] [pid 1604:tid 1320] [client ::1:12634] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_basket.php:0, referer: http://localhost/wcphp/product_details.php?id=10
+[Tue Dec 19 12:12:14.371233 2023] [:error] [pid 1604:tid 1300] [client ::1:12663] PHP Notice:  Undefined variable: name in C:\\UwAmp\\www\\wcphp\\add_basket.php on line 9, referer: http://localhost/wcphp/product_details.php?id=10
+[Tue Dec 19 12:12:14.371233 2023] [:error] [pid 1604:tid 1300] [client ::1:12663] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=10
+[Tue Dec 19 12:12:14.371233 2023] [:error] [pid 1604:tid 1300] [client ::1:12663] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_basket.php:0, referer: http://localhost/wcphp/product_details.php?id=10
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.579017 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.580077 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.581032 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.581032 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.581032 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.581032 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Notice:  Undefined variable: user in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.581032 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:22:18.581032 2023] [:error] [pid 1604:tid 1300] [client ::1:12766] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.287293 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.288297 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.289298 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.289298 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.289298 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.289298 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 55, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.289298 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:19.289298 2023] [:error] [pid 1604:tid 1300] [client ::1:12782] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.377840 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 53, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.377840 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.377840 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.377840 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.377840 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.377840 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.378841 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 53, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.378841 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.378841 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.378841 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.378841 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.378841 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.379836 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 53, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.379836 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.379836 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.379836 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.379836 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.379836 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.380846 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 53, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.380846 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.380846 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.380846 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Notice:  Undefined index: ccount in C:\\UwAmp\\www\\wcphp\\basket.php on line 54, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.380846 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP Stack trace:, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 12:23:30.380846 2023] [:error] [pid 1604:tid 1300] [client ::1:12786] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\basket.php:0, referer: http://localhost/wcphp/product_details.php?id=8
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Notice:  Undefined index: PROFILE in C:\\UwAmp\\www\\wcphp\\listusers.php on line 39
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Stack trace:
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\listusers.php:0
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Notice:  Undefined index: PROFILE in C:\\UwAmp\\www\\wcphp\\listusers.php on line 39
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Stack trace:
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\listusers.php:0
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Notice:  Undefined index: PROFILE in C:\\UwAmp\\www\\wcphp\\listusers.php on line 39
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Stack trace:
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\listusers.php:0
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Notice:  Undefined index: PROFILE in C:\\UwAmp\\www\\wcphp\\listusers.php on line 39
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Stack trace:
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\listusers.php:0
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Notice:  Undefined index: PROFILE in C:\\UwAmp\\www\\wcphp\\listusers.php on line 39
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Stack trace:
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\listusers.php:0
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Notice:  Undefined index: PROFILE in C:\\UwAmp\\www\\wcphp\\listusers.php on line 39
+[Tue Dec 19 13:34:54.757242 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP Stack trace:
+[Tue Dec 19 13:34:54.765227 2023] [:error] [pid 1604:tid 1320] [client ::1:13545] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\listusers.php:0
+[Tue Dec 19 14:03:15.708354 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP Notice:  A session had already been started - ignoring session_start() in C:\\UwAmp\\www\\wcphp\\role_users.php on line 2
+[Tue Dec 19 14:03:15.708354 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP Stack trace:
+[Tue Dec 19 14:03:15.708354 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_item.php:0
+[Tue Dec 19 14:03:15.708354 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP   2. require_once() C:\\UwAmp\\www\\wcphp\\add_product_item.php:3
+[Tue Dec 19 14:03:15.708354 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP   3. session_start() C:\\UwAmp\\www\\wcphp\\role_users.php:2
+[Tue Dec 19 14:03:21.788306 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP Notice:  A session had already been started - ignoring session_start() in C:\\UwAmp\\www\\wcphp\\role_users.php on line 2, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:03:21.788306 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:03:21.788306 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_item.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:03:21.788306 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP   2. require_once() C:\\UwAmp\\www\\wcphp\\add_product_item.php:3, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:03:21.788306 2023] [:error] [pid 1604:tid 1288] [client ::1:13783] PHP   3. session_start() C:\\UwAmp\\www\\wcphp\\role_users.php:2, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:03:44.277746 2023] [:error] [pid 1604:tid 1288] [client ::1:13795] PHP Notice:  A session had already been started - ignoring session_start() in C:\\UwAmp\\www\\wcphp\\role_users.php on line 2, referer: http://localhost/wcphp/add_admin.php
+[Tue Dec 19 14:03:44.277746 2023] [:error] [pid 1604:tid 1288] [client ::1:13795] PHP Stack trace:, referer: http://localhost/wcphp/add_admin.php
+[Tue Dec 19 14:03:44.277746 2023] [:error] [pid 1604:tid 1288] [client ::1:13795] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_item.php:0, referer: http://localhost/wcphp/add_admin.php
+[Tue Dec 19 14:03:44.277746 2023] [:error] [pid 1604:tid 1288] [client ::1:13795] PHP   2. require_once() C:\\UwAmp\\www\\wcphp\\add_product_item.php:3, referer: http://localhost/wcphp/add_admin.php
+[Tue Dec 19 14:03:44.277746 2023] [:error] [pid 1604:tid 1288] [client ::1:13795] PHP   3. session_start() C:\\UwAmp\\www\\wcphp\\role_users.php:2, referer: http://localhost/wcphp/add_admin.php
+[Tue Dec 19 14:09:23.475320 2023] [:error] [pid 1604:tid 1288] [client ::1:13847] PHP Notice:  Undefined index: PROFILE in C:\\UwAmp\\www\\wcphp\\admin_check.php on line 2
+[Tue Dec 19 14:09:23.477863 2023] [:error] [pid 1604:tid 1288] [client ::1:13847] PHP Stack trace:
+[Tue Dec 19 14:09:23.477863 2023] [:error] [pid 1604:tid 1288] [client ::1:13847] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\add_product_item.php:0
+[Tue Dec 19 14:09:23.477863 2023] [:error] [pid 1604:tid 1288] [client ::1:13847] PHP   2. require_once() C:\\UwAmp\\www\\wcphp\\add_product_item.php:4
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Notice:  Undefined variable: active in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 20, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Notice:  Undefined variable: active in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 20, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Notice:  Undefined variable: active in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 20, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Notice:  Undefined variable: active in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 20, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:31:20.460064 2023] [:error] [pid 1604:tid 1288] [client ::1:14004] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Notice:  Undefined variable: imagePath in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 22, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Notice:  Undefined index: product_name in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 24, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Notice:  Undefined variable: imagePath in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 22, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Notice:  Undefined index: product_name in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 24, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Notice:  Undefined variable: imagePath in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 22, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.788258 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.796308 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.796308 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Notice:  Undefined index: product_name in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 24, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.796308 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.796308 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:37:41.796308 2023] [:error] [pid 1604:tid 1288] [client ::1:14082] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP Notice:  Undefined index: product_name in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 25, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP Notice:  Undefined index: product_name in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 25, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP Notice:  Undefined index: product_name in C:\\UwAmp\\www\\wcphp\\caroussel.php on line 25, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP Stack trace:, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP   1. {main}() C:\\UwAmp\\www\\wcphp\\index.php:0, referer: http://localhost/wcphp/index.php
+[Tue Dec 19 14:38:12.929938 2023] [:error] [pid 1604:tid 1288] [client ::1:14083] PHP   2. include() C:\\UwAmp\\www\\wcphp\\index.php:27, referer: http://localhost/wcphp/index.php
+[Thu Jan 25 22:22:07.528474 2024] [ssl:warn] [pid 16968:tid 660] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 25 22:22:07.536459 2024] [ssl:warn] [pid 16968:tid 660] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 25 22:22:07.792451 2024] [core:warn] [pid 16968:tid 660] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 25 22:22:08.642884 2024] [ssl:warn] [pid 16968:tid 660] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 25 22:22:08.649445 2024] [ssl:warn] [pid 16968:tid 660] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 25 22:22:08.649445 2024] [ssl:warn] [pid 16968:tid 660] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 25 22:22:13.397721 2024] [mpm_winnt:notice] [pid 16968:tid 660] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Jan 25 22:22:13.397721 2024] [mpm_winnt:notice] [pid 16968:tid 660] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Jan 25 22:22:13.397721 2024] [core:notice] [pid 16968:tid 660] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Jan 25 22:22:13.437711 2024] [mpm_winnt:notice] [pid 16968:tid 660] AH00418: Parent: Created child process 16348
+[Thu Jan 25 22:22:19.691194 2024] [ssl:warn] [pid 16348:tid 524] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 25 22:22:19.699379 2024] [ssl:warn] [pid 16348:tid 524] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 25 22:22:20.709504 2024] [ssl:warn] [pid 16348:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 25 22:22:20.717525 2024] [ssl:warn] [pid 16348:tid 524] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 25 22:22:20.717525 2024] [ssl:warn] [pid 16348:tid 524] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 25 22:22:20.966027 2024] [mpm_winnt:notice] [pid 16348:tid 524] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 26 15:32:44.393154 2024] [ssl:warn] [pid 14708:tid 688] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 15:32:44.393701 2024] [ssl:warn] [pid 14708:tid 688] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 15:32:44.431710 2024] [core:warn] [pid 14708:tid 688] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 26 15:32:44.532714 2024] [ssl:warn] [pid 14708:tid 688] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 26 15:32:44.532714 2024] [ssl:warn] [pid 14708:tid 688] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 15:32:44.532714 2024] [ssl:warn] [pid 14708:tid 688] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 15:32:45.367377 2024] [mpm_winnt:notice] [pid 14708:tid 688] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Jan 26 15:32:45.367377 2024] [mpm_winnt:notice] [pid 14708:tid 688] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Jan 26 15:32:45.367377 2024] [core:notice] [pid 14708:tid 688] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Fri Jan 26 15:32:45.372417 2024] [mpm_winnt:notice] [pid 14708:tid 688] AH00418: Parent: Created child process 3948
+[Fri Jan 26 15:32:46.283375 2024] [ssl:warn] [pid 3948:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 15:32:46.284377 2024] [ssl:warn] [pid 3948:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 15:32:46.388121 2024] [ssl:warn] [pid 3948:tid 656] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 26 15:32:46.389126 2024] [ssl:warn] [pid 3948:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 15:32:46.389126 2024] [ssl:warn] [pid 3948:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 15:32:46.420752 2024] [mpm_winnt:notice] [pid 3948:tid 656] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 13:44:17.180426 2024] [mpm_winnt:crit] [pid 3948:tid 656] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 30 09:59:21.603976 2024] [ssl:warn] [pid 11260:tid 572] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jan 30 09:59:21.611977 2024] [ssl:warn] [pid 11260:tid 572] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 30 09:59:21.809982 2024] [core:warn] [pid 11260:tid 572] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 30 09:59:22.638101 2024] [ssl:warn] [pid 11260:tid 572] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jan 30 09:59:22.643093 2024] [ssl:warn] [pid 11260:tid 572] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jan 30 09:59:22.643093 2024] [ssl:warn] [pid 11260:tid 572] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 30 09:59:26.667565 2024] [mpm_winnt:notice] [pid 11260:tid 572] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Tue Jan 30 09:59:26.668554 2024] [mpm_winnt:notice] [pid 11260:tid 572] AH00456: Server built: Jan 28 2016 09:58:25
+[Tue Jan 30 09:59:26.668554 2024] [core:notice] [pid 11260:tid 572] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Jan 30 09:59:26.690528 2024] [mpm_winnt:notice] [pid 11260:tid 572] AH00418: Parent: Created child process 2312
+[Tue Jan 30 09:59:31.964470 2024] [ssl:warn] [pid 2312:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jan 30 09:59:31.969462 2024] [ssl:warn] [pid 2312:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 30 09:59:32.635717 2024] [ssl:warn] [pid 2312:tid 680] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jan 30 09:59:32.638696 2024] [ssl:warn] [pid 2312:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jan 30 09:59:32.638696 2024] [ssl:warn] [pid 2312:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 30 09:59:32.827950 2024] [mpm_winnt:notice] [pid 2312:tid 680] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 05 21:23:51.017516 2024] [:error] [pid 2312:tid 1352] [client ::1:10649] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php on line 55, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:51.017516 2024] [:error] [pid 2312:tid 1352] [client ::1:10649] PHP Stack trace:, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:51.017516 2024] [:error] [pid 2312:tid 1352] [client ::1:10649] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php:0, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.197572 2024] [:error] [pid 2312:tid 1344] [client ::1:10651] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\session.inc.php on line 105, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.198619 2024] [:error] [pid 2312:tid 1344] [client ::1:10651] PHP Stack trace:, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.198619 2024] [:error] [pid 2312:tid 1344] [client ::1:10651] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php:0, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.272442 2024] [:error] [pid 2312:tid 1344] [client ::1:10651] PHP   2. require_once() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php:27, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.272442 2024] [:error] [pid 2312:tid 1344] [client ::1:10651] PHP   3. require() C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\common.inc.php:357, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.296434 2024] [:error] [pid 2312:tid 1360] [client ::1:10650] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\session.inc.php on line 105, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.296434 2024] [:error] [pid 2312:tid 1360] [client ::1:10650] PHP Stack trace:, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.296434 2024] [:error] [pid 2312:tid 1360] [client ::1:10650] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\messages.php:0, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.296434 2024] [:error] [pid 2312:tid 1360] [client ::1:10650] PHP   2. require_once() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\messages.php:22, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:52.296434 2024] [:error] [pid 2312:tid 1360] [client ::1:10650] PHP   3. require() C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\common.inc.php:357, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:53.581761 2024] [:error] [pid 2312:tid 1348] [client ::1:10652] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\session.inc.php on line 105, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:53.581761 2024] [:error] [pid 2312:tid 1348] [client ::1:10652] PHP Stack trace:, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:53.581761 2024] [:error] [pid 2312:tid 1348] [client ::1:10652] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_image.js.php:0, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:53.581761 2024] [:error] [pid 2312:tid 1348] [client ::1:10652] PHP   2. require_once() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_image.js.php:18, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Mon Feb 05 21:23:53.581761 2024] [:error] [pid 2312:tid 1348] [client ::1:10652] PHP   3. require() C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\common.inc.php:357, referer: http://localhost/mysql/sql.php?server=1&db=goodsdelivery&table=productlist&pos=0&token=a392818e072df9cb4153a9d2681fd73a
+[Wed Feb 21 14:56:36.204573 2024] [:error] [pid 2312:tid 1348] [client 127.0.0.1:6186] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\php-gettext\\gettext.inc on line 217, referer: http://localhost/mysql/db_structure.php?token=85a1e42a6ea7b620ca484da369ab98ba&server=1&db=unemployment&table=unemployment
+[Wed Feb 21 14:56:36.512096 2024] [:error] [pid 2312:tid 1348] [client 127.0.0.1:6186] PHP Stack trace:, referer: http://localhost/mysql/db_structure.php?token=85a1e42a6ea7b620ca484da369ab98ba&server=1&db=unemployment&table=unemployment
+[Wed Feb 21 14:56:36.512096 2024] [:error] [pid 2312:tid 1348] [client 127.0.0.1:6186] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\index.php:0, referer: http://localhost/mysql/db_structure.php?token=85a1e42a6ea7b620ca484da369ab98ba&server=1&db=unemployment&table=unemployment
+[Wed Feb 21 14:56:36.512096 2024] [:error] [pid 2312:tid 1348] [client 127.0.0.1:6186] PHP   2. require_once() C:\\UwAmp\\phpapps\\phpmyadmin\\index.php:12, referer: http://localhost/mysql/db_structure.php?token=85a1e42a6ea7b620ca484da369ab98ba&server=1&db=unemployment&table=unemployment
+[Wed Feb 21 14:56:36.512096 2024] [:error] [pid 2312:tid 1348] [client 127.0.0.1:6186] PHP   3. require() C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\common.inc.php:569, referer: http://localhost/mysql/db_structure.php?token=85a1e42a6ea7b620ca484da369ab98ba&server=1&db=unemployment&table=unemployment
+[Wed Feb 21 14:56:36.543088 2024] [:error] [pid 2312:tid 1348] [client 127.0.0.1:6186] PHP   4. _setlocale() C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\select_lang.lib.php:572, referer: http://localhost/mysql/db_structure.php?token=85a1e42a6ea7b620ca484da369ab98ba&server=1&db=unemployment&table=unemployment
+[Wed Feb 21 16:16:15.339704 2024] [ssl:warn] [pid 19648:tid 648] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 21 16:16:15.341701 2024] [ssl:warn] [pid 19648:tid 648] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 21 16:16:15.389700 2024] [core:warn] [pid 19648:tid 648] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 21 16:16:15.514698 2024] [ssl:warn] [pid 19648:tid 648] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Feb 21 16:16:15.515700 2024] [ssl:warn] [pid 19648:tid 648] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 21 16:16:15.515700 2024] [ssl:warn] [pid 19648:tid 648] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 21 16:16:17.127702 2024] [mpm_winnt:notice] [pid 19648:tid 648] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Feb 21 16:16:17.127702 2024] [mpm_winnt:notice] [pid 19648:tid 648] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Feb 21 16:16:17.127702 2024] [core:notice] [pid 19648:tid 648] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Feb 21 16:16:17.135704 2024] [mpm_winnt:notice] [pid 19648:tid 648] AH00418: Parent: Created child process 20428
+[Wed Feb 21 16:16:18.656552 2024] [ssl:warn] [pid 20428:tid 692] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 21 16:16:18.657554 2024] [ssl:warn] [pid 20428:tid 692] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 21 16:16:18.766810 2024] [ssl:warn] [pid 20428:tid 692] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Feb 21 16:16:18.766810 2024] [ssl:warn] [pid 20428:tid 692] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 21 16:16:18.766810 2024] [ssl:warn] [pid 20428:tid 692] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 21 16:16:18.801813 2024] [mpm_winnt:notice] [pid 20428:tid 692] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 25 22:57:40.666247 2024] [ssl:warn] [pid 1480:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 25 22:57:40.668248 2024] [ssl:warn] [pid 1480:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 22:57:40.721767 2024] [core:warn] [pid 1480:tid 680] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 25 22:57:40.859302 2024] [ssl:warn] [pid 1480:tid 680] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 25 22:57:40.859302 2024] [ssl:warn] [pid 1480:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 25 22:57:40.859302 2024] [ssl:warn] [pid 1480:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 22:57:43.291558 2024] [mpm_winnt:notice] [pid 1480:tid 680] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Mar 25 22:57:43.291558 2024] [mpm_winnt:notice] [pid 1480:tid 680] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Mar 25 22:57:43.291558 2024] [core:notice] [pid 1480:tid 680] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Mar 25 22:57:43.297616 2024] [mpm_winnt:notice] [pid 1480:tid 680] AH00418: Parent: Created child process 13580
+[Mon Mar 25 22:57:44.101356 2024] [ssl:warn] [pid 13580:tid 472] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 25 22:57:44.102358 2024] [ssl:warn] [pid 13580:tid 472] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 22:57:44.245024 2024] [ssl:warn] [pid 13580:tid 472] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 25 22:57:44.246031 2024] [ssl:warn] [pid 13580:tid 472] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 25 22:57:44.246031 2024] [ssl:warn] [pid 13580:tid 472] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 22:57:44.281836 2024] [mpm_winnt:notice] [pid 13580:tid 472] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 27 09:07:42.612144 2024] [:error] [pid 13580:tid 1316] [client ::1:1457] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php on line 55, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:42.644155 2024] [:error] [pid 13580:tid 1316] [client ::1:1457] PHP Stack trace:, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:42.644155 2024] [:error] [pid 13580:tid 1316] [client ::1:1457] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php:0, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:43.474257 2024] [:error] [pid 13580:tid 1376] [client ::1:1456] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\session.inc.php on line 105, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:43.474257 2024] [:error] [pid 13580:tid 1376] [client ::1:1456] PHP Stack trace:, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:43.474257 2024] [:error] [pid 13580:tid 1376] [client ::1:1456] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\whitelist.php:0, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:43.474257 2024] [:error] [pid 13580:tid 1376] [client ::1:1456] PHP   2. require_once() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\whitelist.php:21, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:43.474257 2024] [:error] [pid 13580:tid 1376] [client ::1:1456] PHP   3. require() C:\\UwAmp\\phpapps\\phpmyadmin\\libraries\\common.inc.php:357, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:51.875380 2024] [:error] [pid 13580:tid 1352] [client ::1:1455] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php on line 55, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:51.876380 2024] [:error] [pid 13580:tid 1352] [client ::1:1455] PHP Stack trace:, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:07:51.876380 2024] [:error] [pid 13580:tid 1352] [client ::1:1455] PHP   1. {main}() C:\\UwAmp\\phpapps\\phpmyadmin\\js\\get_scripts.js.php:0, referer: http://localhost/mysql/sql.php?server=1&db=unemployment&table=unemployment&pos=0&token=5fa5511dae7a1a363486e087eb3fdd4f
+[Wed Mar 27 09:10:13.384053 2024] [mpm_winnt:crit] [pid 13580:tid 472] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Mar 27 11:02:53.081818 2024] [ssl:warn] [pid 1920:tid 512] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 27 11:02:53.090836 2024] [ssl:warn] [pid 1920:tid 512] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 11:02:53.266246 2024] [core:warn] [pid 1920:tid 512] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 27 11:02:53.799831 2024] [ssl:warn] [pid 1920:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 27 11:02:53.804802 2024] [ssl:warn] [pid 1920:tid 512] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 27 11:02:53.804802 2024] [ssl:warn] [pid 1920:tid 512] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 11:02:57.450009 2024] [mpm_winnt:notice] [pid 1920:tid 512] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Mar 27 11:02:57.450009 2024] [mpm_winnt:notice] [pid 1920:tid 512] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Mar 27 11:02:57.450009 2024] [core:notice] [pid 1920:tid 512] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Mar 27 11:02:57.473017 2024] [mpm_winnt:notice] [pid 1920:tid 512] AH00418: Parent: Created child process 16676
+[Wed Mar 27 11:03:03.285800 2024] [ssl:warn] [pid 16676:tid 520] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 27 11:03:03.288883 2024] [ssl:warn] [pid 16676:tid 520] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 11:03:03.901400 2024] [ssl:warn] [pid 16676:tid 520] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 27 11:03:03.903398 2024] [ssl:warn] [pid 16676:tid 520] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 27 11:03:03.904473 2024] [ssl:warn] [pid 16676:tid 520] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 11:03:04.104569 2024] [mpm_winnt:notice] [pid 16676:tid 520] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 01 12:44:56.011049 2024] [ssl:warn] [pid 19728:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 01 12:44:56.013048 2024] [ssl:warn] [pid 19728:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 12:44:56.071048 2024] [core:warn] [pid 19728:tid 680] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 01 12:44:56.436324 2024] [ssl:warn] [pid 19728:tid 680] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Apr 01 12:44:56.438324 2024] [ssl:warn] [pid 19728:tid 680] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 01 12:44:56.438324 2024] [ssl:warn] [pid 19728:tid 680] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 12:51:00.291403 2024] [mpm_winnt:notice] [pid 19728:tid 680] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Apr 01 12:51:00.291403 2024] [mpm_winnt:notice] [pid 19728:tid 680] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Apr 01 12:51:00.291403 2024] [core:notice] [pid 19728:tid 680] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Apr 01 12:51:00.373401 2024] [mpm_winnt:notice] [pid 19728:tid 680] AH00418: Parent: Created child process 2728
+[Mon Apr 01 12:51:07.218985 2024] [ssl:warn] [pid 2728:tid 748] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 01 12:51:07.221504 2024] [ssl:warn] [pid 2728:tid 748] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 12:51:07.615294 2024] [ssl:warn] [pid 2728:tid 748] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Apr 01 12:51:07.617295 2024] [ssl:warn] [pid 2728:tid 748] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 01 12:51:07.617295 2024] [ssl:warn] [pid 2728:tid 748] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 12:51:07.681817 2024] [mpm_winnt:notice] [pid 2728:tid 748] AH00354: Child: Starting 64 worker threads.
+[Wed Sep 25 23:14:53.248206 2024] [ssl:warn] [pid 6472:tid 668] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 25 23:14:53.248206 2024] [ssl:warn] [pid 6472:tid 668] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 25 23:14:53.310705 2024] [core:warn] [pid 6472:tid 668] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 25 23:14:53.404457 2024] [ssl:warn] [pid 6472:tid 668] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Sep 25 23:14:53.404457 2024] [ssl:warn] [pid 6472:tid 668] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 25 23:14:53.404457 2024] [ssl:warn] [pid 6472:tid 668] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 25 23:14:55.629584 2024] [mpm_winnt:notice] [pid 6472:tid 668] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Sep 25 23:14:55.629584 2024] [mpm_winnt:notice] [pid 6472:tid 668] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Sep 25 23:14:55.629584 2024] [core:notice] [pid 6472:tid 668] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Sep 25 23:14:55.629584 2024] [mpm_winnt:notice] [pid 6472:tid 668] AH00418: Parent: Created child process 16800
+[Wed Sep 25 23:14:56.676432 2024] [ssl:warn] [pid 16800:tid 664] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 25 23:14:56.676432 2024] [ssl:warn] [pid 16800:tid 664] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 25 23:14:56.817058 2024] [ssl:warn] [pid 16800:tid 664] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Sep 25 23:14:56.817058 2024] [ssl:warn] [pid 16800:tid 664] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 25 23:14:56.817058 2024] [ssl:warn] [pid 16800:tid 664] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 25 23:14:57.145191 2024] [mpm_winnt:notice] [pid 16800:tid 664] AH00354: Child: Starting 64 worker threads.
+[Wed Sep 25 23:18:59.972268 2024] [mpm_winnt:crit] [pid 16800:tid 664] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Sep 25 23:18:59.972268 2024] [mpm_winnt:warn] [pid 16800:tid 1516] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Sep 25 23:18:59.972268 2024] [mpm_winnt:warn] [pid 16800:tid 1596] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Sep 25 23:18:59.972268 2024] [mpm_winnt:warn] [pid 16800:tid 1592] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Sep 25 23:18:59.972268 2024] [mpm_winnt:warn] [pid 16800:tid 1532] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Oct 16 11:18:24.365552 2024] [ssl:warn] [pid 11196:tid 500] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 16 11:18:24.367551 2024] [ssl:warn] [pid 11196:tid 500] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 16 11:18:24.425151 2024] [core:warn] [pid 11196:tid 500] AH00098: pid file C:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 16 11:18:24.558143 2024] [ssl:warn] [pid 11196:tid 500] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 16 11:18:24.560148 2024] [ssl:warn] [pid 11196:tid 500] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 16 11:18:24.560148 2024] [ssl:warn] [pid 11196:tid 500] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 16 11:18:27.080114 2024] [mpm_winnt:notice] [pid 11196:tid 500] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Oct 16 11:18:27.080114 2024] [mpm_winnt:notice] [pid 11196:tid 500] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Oct 16 11:18:27.080114 2024] [core:notice] [pid 11196:tid 500] AH00094: Command line: 'C:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/UwAmp/bin/apache -f C:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Oct 16 11:18:27.101262 2024] [mpm_winnt:notice] [pid 11196:tid 500] AH00418: Parent: Created child process 7700
+[Wed Oct 16 11:18:28.304092 2024] [ssl:warn] [pid 7700:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 16 11:18:28.306094 2024] [ssl:warn] [pid 7700:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 16 11:18:28.450909 2024] [ssl:warn] [pid 7700:tid 672] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 16 11:18:28.450909 2024] [ssl:warn] [pid 7700:tid 672] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 16 11:18:28.450909 2024] [ssl:warn] [pid 7700:tid 672] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 16 11:18:28.505772 2024] [mpm_winnt:notice] [pid 7700:tid 672] AH00354: Child: Starting 64 worker threads.
